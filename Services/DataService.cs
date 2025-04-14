@@ -48,6 +48,8 @@ namespace MauiAppTempoAgora.Services
                     };
                 }
             }
+
+            return t;
         }
     }
 }
